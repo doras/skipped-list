@@ -1,4 +1,5 @@
 # skipped-list
+[![License](https://img.shields.io/badge/Licence-MIT-blue.svg)](./LICENSE)   
 C implementation of randomly skipped list
 
 ## Usage
