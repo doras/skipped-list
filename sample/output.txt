@@ -1,0 +1,10 @@
+header(4)
+1(2)
+2(3)
+3(0)
+4(3)
+5(2)
+tail(4)
+elem : 3, address : 0x7ff0a1c02bf0
+next[0] : 4
+There isn't 123.
